@@ -20,6 +20,10 @@ public class ReplaceSpace {
         news.append(array);
         System.out.println(news);
         return news;
+
+
+
+
     }
     public static void main(String[] args) {
         ReplaceSpace replaceSpace=new ReplaceSpace();
